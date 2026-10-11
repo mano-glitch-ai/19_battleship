@@ -16,4 +16,4 @@
 
 ## Testing
 
-Tested hits, misses, repeated shots, sinking a ship, invalid coordinates, and quitting. Further testing of the full-fleet win condition and AI targeting is still needed.
+Tested hits, misses, repeated shots, sinking individual ships, the full-fleet win condition, invalid coordinates, quitting, and AI targeting of adjacent untried cells after a hit.
