@@ -57,7 +57,7 @@ retaining responsibility for understanding and testing the result.
 
 - Inspect the existing code before asking for changes.
 - Ask for explanations when you do not understand a proposed change.
-- Test generated code against the stated behaviour and edge cases.
+- Test generated code against the stated behaviour and edge cases
 - Keep your complete LLM chat history for submission.
 - Do not replace the whole project with an unrelated implementation.
 - Keep all state in memory; do not add CSV, JSON, SQLite, or other persistence.
